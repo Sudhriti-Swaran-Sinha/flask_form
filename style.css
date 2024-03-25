@@ -1,0 +1,46 @@
+body{
+    background-image:url(bg1.jpg);
+
+}
+.container {
+    width: 50%; /* Adjust the width as needed */
+    margin: 0 auto; /* This will center the container horizontally */
+    text-align: center; /* This will center the form elements inside the container */
+    margin-top: 10%;
+
+    border: 5px solid #76885B;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+.a-series{
+    padding: 9px;
+    margin-top: 40px;
+    font-size: larger;
+    font-weight: bolder;
+    background: transparent;
+    color: whitesmoke;
+    border: 2px solid #76885B;
+}
+
+
+
+.bold{
+    font-weight: bold;
+    font-size: larger;
+}
+
+#btn{
+    width: 70%;
+    cursor: pointer;
+    color: black;
+
+
+}
+#btn:hover {
+    background-color: #F1F5A8; /* Darker color when hovered */
+}
+input[type="text"] {
+    background: transparent;
+    border: 2px solid #76885B;
+  }
